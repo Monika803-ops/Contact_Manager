@@ -132,22 +132,14 @@ http://localhost:3000
 ## Screenshots
 
 **Home / Contact List**
-
-```
 ![Home Page](images/Home.png)
-```
 
 **Add Contact**
-
-```
 ![Add Contact](images/AddContact.png)
-```
 
 **Edit Contact**
-
-```
 ![Edit Contact](images/EditContact.png)
-```
+
 
 ---
 
