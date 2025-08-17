@@ -15,7 +15,7 @@ It allows users to **add, view, edit, delete, and search contacts**, providing a
 * Edit existing contacts
 * Delete contacts
 * View all contacts in a **table format**
-* **Search contacts** by name, email, or phone number
+* **Search contacts** by name, email, and phone number
 * Responsive and clean **UI design**
 * Full **frontend-backend integration** using **Axios and React Router**
 
