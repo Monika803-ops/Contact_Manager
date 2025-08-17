@@ -134,19 +134,19 @@ http://localhost:3000
 **Home / Contact List**
 
 ```
-[Insert screenshot here]
+![Home Page](images/Home.png)
 ```
 
 **Add Contact**
 
 ```
-[Insert screenshot here]
+![Add Contact](images/AddContact.png)
 ```
 
 **Edit Contact**
 
 ```
-[Insert screenshot here]
+![Edit Contact](images/EditContact.png)
 ```
 
 ---
