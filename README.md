@@ -140,6 +140,9 @@ http://localhost:3000
 **Edit Contact**
 ![Edit Contact](images/EditContact.png)
 
+**Search Contact**
+![Search Contact](images/SearchContact.png)
+
 
 ---
 
